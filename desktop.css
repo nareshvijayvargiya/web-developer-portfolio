@@ -1,0 +1,26 @@
+@media only screen and (min-width: 810px) {
+    
+.logos{
+    flex-wrap: nowrap;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.container-2{
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.img-1 {
+    width: 96%;
+}
+
+.container-3{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+}
+}
